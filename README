@@ -1,1 +1,12 @@
-
+The purpose of this project is to develop a karaoke service that people can use over the web. The current problems with doing this are as follows
+A.) Multiple apps or webpages are required to be used at once. Let's streamline that into one all-inclusive site or app.
+B.) Sync issues are rampant. The music and the singer may sound like they're together to the singer, but everyone else will typically
+    hear them as unsynced.
+C.) Clipping. different apps and websites are trying to balance out and equalize their own sounds separately; then each client is trying
+    to balance and equalize those separate things into one output. Thus, some things get clipped, depending on what volume each source is at.
+D.) There is no "host" to control the situation like there might be at your favorite bar's karaoke night. Everyone has to simply be patient
+    and not interfere with someone else's song. Should be easy, but humans do exist.
+    
+If all these problems are resolved by sending as much signal through one dedicated host that can manually, or through automation,
+sync, equalize, organize, mute and unmute, distant friends can sing together, and possibly even remotely access, from their own home,
+karaoke night with their friends who are out and about.
